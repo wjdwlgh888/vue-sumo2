@@ -1,4 +1,4 @@
-/*! 
+/*!
  * jquery.sumoselect - v3.0.3
  * http://hemantnegi.github.io/jquery.sumoselect
  * 2016-12-12
