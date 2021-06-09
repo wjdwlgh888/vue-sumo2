@@ -129,7 +129,7 @@
   width: 20px;
 }
 .SumoSelect > .CaptionCont > label > i {
-  background-image: url("../images/arrow-multiple.png");
+  background-image: url("../../src/images/arrow-multiple.png");
   background-position: center center;
   width: 16px;
   height: 16px;
